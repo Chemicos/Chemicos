@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋 (says in a Obi-Wan voice)</h1>
+<h1 align="center">Hello there 👋</h1>
 
 ###
 

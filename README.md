@@ -101,8 +101,8 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://chemicos.github.io/chemicos/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://chemicos.github.io/chemicos/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://chemicos.github.io/chemicos/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./docs/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./docs/pacman.svg">
+  <img alt="Pacman contribution graph" src="./docs/pacman.svg">
 </picture>
 

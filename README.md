@@ -5,16 +5,11 @@
 <h2 align="left">About:</h2>
 
 ###
-
-<p align="left">Just a guy who tries to become a better web developer every day.</p>
-
-###
-
-<p align="left">Gets excited about creating UI/UX designs and bringing them to life.</p>
-
-###
-
-<p align="left">🍲 Food enthusiast and a video game enjoyer. 🎮</p>
+<ul>
+  <li>Just a guy who tries to become a better web developer every day.</li>
+  <li>Gets excited about creating UI/UX designs and bringing them to life.</li>  
+  <li>🍲 Food enthusiast and a video game enjoyer. 🎮</li>
+</ul>
 
 ###
 
@@ -103,14 +98,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chemicos&radius=16&theme=synthwave-84&area=true&order=5&custom_title=Chemicos's%20Contribution&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chemicos/chemicos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chemicos/chemicos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/chemicos/chemicos/output/pacman-contribution-graph.svg">
-</picture>
-
-###

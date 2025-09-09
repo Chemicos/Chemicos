@@ -2,6 +2,12 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./docs/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./docs/pacman.svg">
+  <img alt="Pacman contribution graph" src="./docs/pacman.svg">
+</picture>
+
 <h2 align="left">About:</h2>
 
 ###
@@ -98,11 +104,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chemicos&radius=16&theme=synthwave-84&area=true&order=5&custom_title=Chemicos's%20Contribution&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./docs/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./docs/pacman.svg">
-  <img alt="Pacman contribution graph" src="./docs/pacman.svg">
-</picture>
 

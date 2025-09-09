@@ -100,8 +100,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=chemicos&locale=en&mode=daily&theme=synthwave&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chemicos&radius=16&theme=synthwave-84&area=true&order=5&custom_title=Chemicos's%20Contribution&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=chemicos&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chemicos&radius=16&theme=redical&area=true&order=5&custom_title=Chemicos's%20Contribution&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 

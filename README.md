@@ -1,13 +1,6 @@
 <h1 align="center">Hello there 👋, name's Cosmin</h1>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./docs/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./docs/pacman.svg">
-  <img alt="Pacman contribution graph" src="./docs/pacman.svg">
-</picture>
-
 <h2 align="left">About:</h2>
 
 ###

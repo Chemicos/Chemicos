@@ -1,16 +1,6 @@
 <h1 align="center">Hello there 👋, name's Cosmin</h1>
 
 ###
-<h2 align="left">About:</h2>
-
-###
-<ul>
-  <li>Just a guy who tries to become a better web developer every day.</li>
-  <li>Gets excited about creating UI/UX designs and bringing them to life.</li>  
-  <li>🍲 Food enthusiast and a video game enjoyer. 🎮</li>
-</ul>
-
-###
 
 <h2 align="left">Technical Skills:</h2>
 
